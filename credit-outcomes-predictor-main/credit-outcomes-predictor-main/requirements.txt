@@ -1,0 +1,4 @@
+selenium==4.2.0
+requests
+lxml
+dataclases-json
